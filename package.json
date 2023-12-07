@@ -1,0 +1,21 @@
+{
+  "name": "dark---pink",
+  "displayName": "Dark + Pink",
+  "description": "Dark color theme with Pink",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark + Pink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark + Pink-color-theme.json"
+      }
+    ]
+  }
+}

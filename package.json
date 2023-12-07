@@ -3,6 +3,17 @@
   "displayName": "Dark + Pink",
   "description": "Dark color theme with Pink",
   "version": "0.0.1",
+  "publisher": "rmeha",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RafaelMeha/dark---pink"
+  },
+  "keywords": [
+    "theme",
+    "dark + pink theme",
+    "pink theme",
+    "rmeha"
+  ],
   "engines": {
     "vscode": "^1.84.0"
   },

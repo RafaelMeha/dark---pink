@@ -1,5 +1,5 @@
 # dark---pink README
-
+This is a dark + pink theme, if u know anything i should change lmk
 ## Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:

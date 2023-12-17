@@ -1,7 +1,7 @@
 # Dark++ Pink Theme for VSCode
 
 ## Introduction
-This is a dark and pink theme inspired by [what inspired your theme]. It's designed to be easy on the eyes while providing a vibrant touch to your coding experience.
+This is a dark and pink theme . It's designed to be easy on the eyes while providing a vibrant touch to your coding experience.
 
 ## Features
 - Highlighted syntax for better readability.
